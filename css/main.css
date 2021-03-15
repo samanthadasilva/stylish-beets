@@ -7,5 +7,20 @@ html {
   box-sizing: inherit;
 }
 
+h1 {
+  font-family: 'PT Sans', sans-serif;
+  color: #3f1622;
+}
+
+header li {
+  list-style-type: none;
+}
+
+header a {
+  color: #8f2440;
+  font-family: 'PT Sans', sans-serif;
+  font-size: 1.5rem;
+}
+
 /*font-family: 'PT Sans', sans-serif;
 font-family: 'PT Serif', serif;

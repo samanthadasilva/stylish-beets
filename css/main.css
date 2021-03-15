@@ -59,5 +59,12 @@ main p:last-of-type {
   font-style: italic;
 }
 
+dt {
+  font-weight: bold;
+}
+
+footer a {
+  color: #8f2440;
+}
 /*font-family: 'PT Sans', sans-serif;
 font-family: 'PT Serif', serif;
